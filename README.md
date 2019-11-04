@@ -1,9 +1,10 @@
 # `WHAT I LEARNED IN WEEK 8`
 
 
+
 ### `Functional Programming`
 
-* Some examples included:
+* Some examples include:
 ```
 function returnFromFunc(func) {
   return func()
@@ -49,7 +50,7 @@ if (isAddition) {
 ```
 ---
 
-## `Domosaur`
+### `Domosaur`
 
 I think this project was the most helpful in terms of teaching the concept. It was more clear about why we use functional programing. I like that we worked with partners. One of the most helpful part of the project was the following:
 ```
@@ -66,7 +67,7 @@ function changeBack(event){
 document.querySelector('#biggify').addEventListener('mouseout', changeBack)
 ```
 ---
-## `Extinction-Event`
+### `Extinction-Event`
 
 This was very confusing at first. Then I figured out most of it. I am looking forward to going over in class!
 
@@ -98,3 +99,7 @@ function eventListenerLoop2 () {
 
 eventListenerLoop2()
 ```
+---
+### `Midterm`
+I hope I didn't fail.. Looking forward to see my grade.
+---
